@@ -1,4 +1,4 @@
-# A tiny framework for microservices based on RxJS & gRPC
+# The simplest RxJS wrapper around grpc lib
 
 [![Build Status](https://travis-ci.com/ihoro/rough-rx-grpc.svg?branch=master)](https://travis-ci.com/ihoro/rough-rx-grpc)
 [![npm version](https://badge.fury.io/js/%40rough%2Frx-grpc.svg)](https://badge.fury.io/js/%40rough%2Frx-grpc)
