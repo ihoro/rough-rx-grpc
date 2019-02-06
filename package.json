@@ -1,0 +1,40 @@
+{
+  "name": "@rough/rx-grpc",
+  "version": "1.0.0",
+  "description": "A simple RxJS wrapper and tools for grpc lib",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihoro/rough-rx-grpc.git"
+  },
+  "keywords": [
+    "rpc",
+    "grpc",
+    "microservice",
+    "service",
+    "soa",
+    "protobuf",
+    "proto",
+    "http2",
+    "binary",
+    "reactive",
+    "rx",
+    "rxjs",
+    "observable"
+  ],
+  "author": "Igor Ostapenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ihoro/rough-rx-grpc/issues"
+  },
+  "homepage": "https://github.com/ihoro/rough-rx-grpc#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@grpc/proto-loader": "^0.4.0",
+    "glob": "^7.1.3",
+    "grpc": "^1.18.0",
+    "rxjs": "^6.4.0"
+  }
+}
