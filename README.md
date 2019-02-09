@@ -7,7 +7,7 @@ Rough implementation of [rxified](https://npmjs.com/rxjs) wrapper and tools for 
 
 ## Usage example
 
-```
+```proto
 // GreetingService.proto
 
 syntax = "proto3";
@@ -27,7 +27,7 @@ message Response {
 }
 ```
 
-```
+```js
 // server.js
 
 class GreetingService {
@@ -52,7 +52,7 @@ new RxGrpc()
   );
 ```
 
-```
+```js
 // client.js
 
 const { flatMap } = require('rxjs/operators');
