@@ -1,6 +1,6 @@
 {
   "name": "@rough/rx-grpc",
-  "version": "1.4.3",
+  "version": "1.5.0",
   "description": "The simplest RxJS wrapper around grpc lib",
   "main": "lib",
   "repository": {
